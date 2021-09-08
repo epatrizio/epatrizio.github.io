@@ -3,7 +3,15 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Mon super site perso epatrizio
-description: Ma super description site perso epatrizio
+lang: EN
 
-show_downloads: false
+title: Eric Patrizio
+description: Software craftman, agile and open source enthusiast. In continuous learning ;)
+
+meta_title: Software craftman, agility | Eric Patrizio
+meta_description: Software craftmanship, agile and open source enthusiast. I'm in continuous learning ;)
+meta_keywords: software, craft, craftman, craftmanship, agile, agility, clean code, programming, open source
+
+github_link: https://github.com/epatrizio
+linkedin_link: https://fr.linkedin.com/in/eric-patrizio-215832
+twitter_link: https://twitter.com/EricPatrizio
