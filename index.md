@@ -4,7 +4,7 @@ layout: default
 
 ## #About_me
 
-Hello, i'm Eric!, french, 47 years old. I'm software developer, active in the agile and software craftmanship communities.
+Hello, i'm Eric!, french, 47 years old. I'm software developer, active in the agile and software craftsmanship communities.
 [Learn more](./eric-patrizio.html)
 
 ## #Current_status (2021, september)
