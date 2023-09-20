@@ -5,7 +5,7 @@ layout: default
 ## #About_me
 
 Hello, I'm Eric!, 49 years old, french, living in the Paris area.\
-I'm computer science engineer, specialized in programming languages design.\
+I'm a computer science engineer, specialized in programming languages design.\
 I've 20 years of experience in software development, in web environments.\
 [Learn more](./eric-patrizio.html)
 
