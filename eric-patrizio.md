@@ -6,26 +6,47 @@ layout: default
 
 ## #Quick_biography (english)
 
-Hello, i'm Eric, french, 48 years old, living in the Paris area. I'm a software developer (specialized in web environments), free software, open source, agile and software craftsmanship advocate.
+I'm a R&D software engineer. I have over 20 years' experience in development teams, in web environments.
+I follow the original values of the agile and software craftsmanship movements.
+I'm convinced of the need for Open Source and the free software approach.
 
-I have 20 years of experience in development teams. During this period, I programmed a lot, I imagined architectures, and I also mentored, coached, was in contact with end users and customers. Today, I have acquired the conviction that in order to carry out this complex tasks, a team culture, part of an appropriate product and corporate culture, is fundamental.
+Over the years, I've always programmed, designed architectures, mentored and been in contact with end-users and customers.
+To carry out these complex software development tasks, it is necessary to build a global team culture
+(product interest and advanced technical skills).
 
-Along with my professional activity, I'm active in some practice communities. I am a member of [AFUP](https://afup.org) (French Association of PHP Users), board member of [Agile France](https://agile-france.org) and at the origin of [Frug'Agile](https://www.frugagile.org) association creation. Frug'Agile is a contraction of frugality and agility, 2 very important values for us.
+During my professional career, in order to improve my practices, I obtained a
+[master’s degree of computer science at Sorbonne University](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-stl)
+(Jussieu campus, Paris, 2021-2023). This fully theoretical training focused on the design of programming langages.
+I have now a strong interest in scientific research and I understand the importance of
+bringing academic and industry closer together.
 
-At the middle of my professional career, I realize that I fully develop myself as soon as I am close to the code, to concrete implementation, to creation! In this context, I am fortunate to be able to grant myself a full-time training, in order to improve my programmer skills, to understand the construction of programming languages. I am therefore enrolled at the Sorbonne University of Sciences (Jussieu Campus in Paris) for the [Master STL](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-stl) (Science and Technology of Software). I follow algorithmic, functional programming, concurrent programming, programming languages typing, static analysis, and compilation lessons. That excites me :-)
-
-This break, conducive to taking a step back, is fascinating. I don't know where this moment will lead me, which is certainly the most important thing of the process. I have confidence!
+Now, I’m working at OCamlPro. I'm taking part in a research project on [WebAssembly](https://webassembly.org) language.
+Wasm is a portable compilation target with a lot of development prospects. I'm also interested in the minimalist,
+constrained and low-tech computer science approach, mainly in the area of programming languages.
+Lots of learning and opportunities ahead. To be continued!
 
 ## #Brève_biographie (français)
 
-Bonjour, je m'appelle Eric, j'ai 48 ans, je suis français, je vis en région parisienne. Je suis développeur de logiciels (spécialisé dans les environnements web), artisan logiciel, sensible à la philosophie du logiciel libre et de l'open source, et adepte de la pensée agile.
+Je suis ingénieur logiciel R&D avec plus de 20 ans d’expérience au sein d’équipes de développement
+dans des environnements web. Adepte des valeurs radicales portées par le mouvement agile et l’artisanat du logiciel,
+je suis convaincu de la nécessité de l’Open Source et sensible à la philosophie du logiciel libre.
 
-J'ai 20 ans d'expérience au sein d'équipes de développement. Durant cette période, j'ai beaucoup programmé, imaginé des architectures, et j'ai aussi encadré, accompagné, été au contact des utilisateurs finaux, des clients. Aujourd'hui, j'ai acquis la conviction que pour mener à bien ces tâches complexes, une culture d'équipe, s'inscrivant dans une culture produit, elle-même intégrée à une culture d'entreprise adaptée, constitue une condition nécessaire.
+Durant ces années, j'ai toujours programmé, imaginé des architectures, encadré, accompagné,
+été au contact des utilisateurs finaux, des clients. J'ai acquis la conviction que pour mener à bien ces tâches complexes,
+construire une culture d'équipe, s'inscrivant dans une culture technique avancée, une culture produit et
+une culture d'entreprise adaptée, constitue une condition nécessaire.
 
-En parallèle de mon activité professionnelle, je suis actif au sein de communautés de praticiens. Je suis membre de l'[AFUP](https://afup.org) (Association Française des Utilisateurs de PHP), membre du bureau d'[Agile France](https://agile-france.org) et à l'origine de la création de l'association [Frug'Agile](https://www.frugagile.org), contraction de frugalité et d'agilité, valeurs nous tenant particulièrement à cœur.
+A la moitié de ma carrière professionnelle, afin d’évoluer dans mes pratiques, j’ai passé le
+[Master STL (Science et Technologie du Logiciel)](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-stl)
+de Sorbonne Université (Campus Jussieu, Paris, années 2021-2023). Ce cursus théorique complet,
+abordant notamment la conception des langages de programmation, a réveillé en moi un vif intérêt pour la recherche
+scientifique appliquée, et la pertinence de rapprocher le milieu académique du milieu industriel.
 
-A la moitié de ma carrière professionnelle, je me rends compte que je m'épanouis pleinement dès lors que je suis proche du code, de la mise en œuvre concrète, de la création. Dans ce contexte, j'ai la chance de pouvoir m'accorder une période de formation à plein temps, afin de me perfectionner dans mes pratiques de programmeur, de mieux comprendre le fonctionnement intrinsèque des langages de programmation. Cela m'enthousiasme. Je suis ainsi inscrit à l'université des sciences de la Sorbonne (Campus Jussieu à Paris) en [Master STL](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-informatique/parcours-stl) (Science et Technologie du Logiciel). Apprentissages autour de l'algorithmique, de la programmation fonctionnelle, concurrente, du typage, de l'analyse statique, de la compilation sont au programme. Vaste programme !
-
-Cette pause, propice à la prise de recul, est passionnante. Où va-t-elle me mener ? Je n'en sais rien, ce qui constitue certainement l'essentiel de la démarche. J'ai confiance !
+Je travaille actuellement chez OCamlPro où j’ai la chance de pouvoir participer à un projet de recherche
+autour du langage [WebAssembly](https://webassembly.org), une nouvelle cible de compilation portable
+en plein essor aux multiples perspectives de développements.
+En parallèle, je m’intéresse à l’approche minimaliste, sous contraintes,
+voire low tech, de l’informatique, naturellement essentiellement côté langages.
+Dans ce contexte, me concernant, les apprentissages et opportunités à venir sont multiples. A suivre !
 
 <a href="/" class="btn">Back</a>
