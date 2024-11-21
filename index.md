@@ -4,33 +4,34 @@ layout: default
 
 ## #About_me
 
-Hello 👋, I'm Eric!, 49 years old, french, living in the Paris area.\
+Hello 👋, I'm Eric!, 50 years old, french, living in the Paris area.\
 I'm a R&D software engineer, I've 20 years of experience in software development, in web environments.\
 After a master's degree in computer science (2021 - 2023, Paris Sorbonne University of Sciences),
 I'm now a *young new ;-)* computer scientist specialized in programming languages design.
 
+#FrugalComputing #OCaml #WebAssembly #Wasm
+
 [Learn more](./eric-patrizio.html)
 
-## #Current_status (2024, January)
+## #Current_status (2024, August)
 
-I work at [OCamlPro](https://ocamlpro.com), a private research lab.
-I contribute to the [owi](https://github.com/OCamlPro/owi/) 🐌 project
-(OCaml WebAssembly toolchain : concrete and symbolic interpretation),
-part of a research project on OCaml to Wasm compilation based on [WasmGC](https://github.com/WebAssembly/gc)
-(WebAssembly new version, including Garbage Collection support).
+I work at [Sismic](https://sismic.fr), a software publisher.\
+First step, I work with the development team to improve the source code quality production
+(agile mindset, automatic testing, software design, etc.).
+Next, I'm working on a medium-term project to create a new R&D team that could be closer to academic subjects.
 
-#OCaml #WebAssembly #wasm #interpretation #compilation
+#Research&Development #Rust
 
-## #Side_project
+## #Side_projects
 
-[ola](https://github.com/epatrizio/ola/) (OCaml Lua experiments) is a personal experimental project.
-First step, `ola` is a Lua language interpreter written in OCaml.
-The objective is to obtain a deeper understanding of dynamic languages design, such as typing at runtime.
+[miniml2wasm](https://github.com/epatrizio/miniml2wasm) (MiniML to WebAssembly compiler) is a personal experimental project.\
+It's always difficult to write a compiler, so, this project, written in OCaml, allows me to experiment.
+Next, It gives me a better understanding of ML languages (e.g. strong static typing, inference)
+and the Wasm bytecode.
 
-The project begins (2023, September), I've already learned a lot, more than I expected.
-The most important thing is that it requires a **hard** work to implement
-the full language specification, including the standard library.
-You want to learn and have fun with me, feel free, contact me,
-[Issues and Pull Requests](https://github.com/epatrizio/ola/issues) are welcome !
+I continue to contribute to `ola` (Ocaml LuA interpreter, another personal project)
+and I'm always close to `owi` 🐌 (WebAssembly Swissknife & cross-language bugfinder, an OCamlPro project).
 
-#OCaml #lua #dynamic_languages #interpretation
+[Learn more on my GitHub](https://github.com/epatrizio)
+
+#OCaml #Lua #MiniML #WebAssembly #Wasm #Interpreter #Compiler
