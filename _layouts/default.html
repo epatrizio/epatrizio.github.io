@@ -20,7 +20,7 @@
         <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        <h2>{{ site.description | default: site.github.project_tagline }}<br />{{ site.current_status }}</h2>
         <section id="links">
           <a href="{{ site.github_link }}" class="btn btn-github" target="_blank"><span class="icon"></span>GitHub</a>
           <a href="{{ site.linkedin_link }}" class="btn" target="_blank">LinkedIn</a>
