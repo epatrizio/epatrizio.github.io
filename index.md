@@ -11,7 +11,7 @@ I'm now a *young new ;-)* computer scientist specialized in programming language
 
 #Functional_programming #Automated_testing #OCaml #WebAssembly #Wasm
 
-[Learn more](./eric-patrizio.html)
+[Learn more about my journey](./eric-patrizio.html)
 
 ## #Current_status (2025, August)
 
