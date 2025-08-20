@@ -4,23 +4,24 @@ layout: default
 
 ## #About_me
 
-Hello 👋, I'm Eric!, 50 years old, french, living in the Paris area.\
+Hello 👋, I'm Eric!, 51 years old, french, living in the Paris area.\
 I'm a R&D software engineer, I've 20 years of experience in software development, in web environments.\
-After a master's degree in computer science (2021 - 2023, Paris Sorbonne University of Sciences),
+After a second master's degree in computer science (2021 - 2023, Paris Sorbonne University of Sciences),
 I'm now a *young new ;-)* computer scientist specialized in programming languages design.
 
-#FrugalComputing #OCaml #WebAssembly #Wasm
+#Functional_programming #Automated_testing #OCaml #WebAssembly #Wasm
 
 [Learn more](./eric-patrizio.html)
 
-## #Current_status (2024, August)
+## #Current_status (2025, August)
 
-I work at [Sismic](https://sismic.fr), a software publisher.\
-First step, I work with the development team to improve the source code quality production
-(agile mindset, automatic testing, software design, etc.).
-Next, I'm working on a medium-term project to create a new R&D team that could be closer to academic subjects.
+I'm still interested in academic subjects. To go further, I'm currently working on a PhD subject!
+I have a strong interest in the degrowth of programming languages and their tools.
+[Lua language](https://github.com/epatrizio/ola) seems to be a good playground
+(Minimalism as a main value, few core concepts enabling multi-paradigm).\
+Work in progress, start as soon as possible ...
 
-#Research&Development #Rust
+#FrugalComputing #Lua #OCaml
 
 ## #Side_projects
 
