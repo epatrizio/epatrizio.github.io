@@ -15,14 +15,12 @@ I'm now a *young new ;-)* computer scientist specialized in minimalist design of
 
 ## #Current_status (2026, August)
 
-I'm a Ph.D. student at [Phenix research group](https://phenix.citi-lab.fr) (CITI Lab - INSA Lyon).
-I've a strong interest in the degrowth of programming languages and their tools.
+I'm a Ph.D. student at **Phenix research group** (CITI Lab - INSA Lyon).
 The subject of my PhD is **Frugality of programming languages, relationship with software development practices**.
 
-Studying the [Lua programming language](https://www.lua.org) is an important part of my PhD.
-(Minimalism as a main value, few core concepts enabling multi-paradigm).
+[Learn more about my PhD subject](./phd.html)
 
-#Frugal_computing #Lua #OCaml
+#Frugal_computing #Lua #C
 
 ## #Side_projects
 

@@ -4,7 +4,7 @@ layout: default
 
 <img src="/img/epatrizio.png" alt="Eric Patrizio" title="Eric Patrizio" width="200" />
 
-*Last update: 2026, august*
+*Last update: 2026, october*
 
 ## #My_journey (english)
 
@@ -29,6 +29,8 @@ Like Software bloat ([bloatware](https://en.wikipedia.org/wiki/Software_bloat)),
 languages and their toolchains are constantly growing. The following hypothesis will be examined to determine
 whether it holds true or not:
 *The proliferation of programming paradigms within a single language contributes to software growth, both in the toolchain for working with that language and in the software built using it*.
+
+[Learn more about my PhD subject](./phd.html)
 
 To be continued!
 
@@ -56,6 +58,8 @@ Je suis actuellement (de juillet 2026 à juin 2029) doctorant au sein de l'équi
 A l'instar de l'[inflation logicielle](https://fr.wikipedia.org/wiki/Bloatware), les langages et leurs outils
 ne sont pas en reste. Nous avançons l'hypothèse suivante qui sera étudiée afin d'être validée ou invalidée :
 *La multiplication des paradigmes de programmation au sein d'un même langage tend à favoriser l'inflation logicielle, aussi bien dans les outils de manipulation de ce langage que dans les logiciels construits avec celui-ci.*
+
+[En savoir plus sur mon sujet de thèse](./phd.html)
 
 A suivre !
 
